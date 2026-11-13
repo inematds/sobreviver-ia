@@ -14,6 +14,8 @@ The tools print their output in Portuguese.
 
 Full guide (landing + step by step, with data and charts): **https://inematds.github.io/sobreviver-ia/guia/en/**
 
+🎬 Video: https://www.youtube.com/shorts/bgVHDEm1yGI
+
 ## Three risk horizons
 
 | Horizon | Risk | Tool |

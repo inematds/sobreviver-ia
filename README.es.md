@@ -12,6 +12,8 @@ sobreviver-ia es un conjunto de herramientas simples, que corren en tu computado
 
 Guía completa (landing + paso a paso, con datos y gráficos): **https://inematds.github.io/sobreviver-ia/guia/es/**
 
+🎬 Video: https://www.youtube.com/shorts/bgVHDEm1yGI
+
 ## Tres horizontes de riesgo
 
 | Horizonte | Riesgo | Herramienta |
